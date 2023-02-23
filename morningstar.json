@@ -1,0 +1,9 @@
+{
+    "url": "https://raw.githubusercontent.com/akshukatkar/swagger-testing/main/akshay.yaml",
+    "urls": [
+        {
+            "url": "https://raw.githubusercontent.com/akshukatkar/swagger-testing/main/akshay.yaml",
+            "name": "Bar"
+        }
+    ]
+}
