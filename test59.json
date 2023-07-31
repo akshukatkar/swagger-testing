@@ -3,7 +3,7 @@
 	"heading" : "<img src=x>Mathias Cormann's 'Staff and Family Travel'",
 	"body" : "<img src=x>An extract from Helloworld's booking entry for travel booked on July 17, 2017.",
 	"image_src" : "Corman_booking.png",
-	"file" : "https://google.com/1902Corman_booking.pdf",
+	"file" : "https://google.com%2f1902Corman_booking.pdf",
 	"label" : "PDF",
 	"note" : "<img src=x>View the booking entry"
 }
