@@ -1,0 +1,161 @@
+{
+    "config": {
+        "heading" : "Timeline - Veronica Nelson",
+        "credits" : "",
+        "showHeader": false
+    },
+    "data": [
+        {
+            "date" : "3.35pm, Dec 31, 2019",
+            "body" : "Arrested near Southern Cross train station, interviewed and taken to Melbourne Custody Centre for the night."
+        },
+        {
+            "date" : "Dec 31, 2019",
+            "body" : "Refused bail in Melbourne Magistrates' Court.",
+              "quote" : {
+                "text": "\"There's really not enough there for me to justify releasing you on bail\"",
+                "name": ""
+            },
+            "audio" : {
+                "audioUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/BailRefused.mp3",
+                "color": "",
+                "words": "",
+                "caption": ""
+            }
+        },
+        {
+            "date" : "4.35pm, Dec 31, 2019",
+            "body" : "Arrives at Dame Phyllis Frost Centre and seen by medical staff, given medication. ",
+            "video": {
+                "videoUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/NelsonEnters.mp4",
+                "videoPoster": "https://www.theage.com.au/interactive/2022/NelsonTimeline/entersThumb.jpg"
+            }
+        }, 
+        {
+            "date" : "6.30pm - 7pm, Dec 31, 2019",
+            "body" : "Buzzes intercom four times to report feeling unwell and vomits three times.",
+             "quote" : {
+                "text": "\"I feel sick ... I'm spewing up\"",
+                "name": ""
+            },
+            "audio" : {
+                "audioUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/intercom6.mp3",
+                "color": "",
+                "words": "",
+                "caption": ""
+            }
+           
+        },
+        {
+            "date" : "3.21am - 6.37am, Jan 1, 2020",
+            "body" : "Nelson vomits, uses buzzes for help five times. Is told:",
+            "quote" : {
+                "text": "\"They won't be able to do nothing\"",
+                "name": ""
+            },
+            "audio" : {
+                "audioUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/nothing.mp3",
+                "color": "",
+                "words": "",
+                "caption": ""
+            }
+        },
+        {
+            "date" : "6.51am, Jan 1, 2020",
+            "body" : "Asks for socks as feet are cramping. Soon after, staff hand socks through cell hatch as Nelson appears unsteady.",
+            "video": {
+                "videoUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/HealthWard.mp4",
+                "videoPoster": "https://www.theage.com.au/interactive/2022/NelsonTimeline/healthWardThumb.jpg"
+            }
+        },
+        {
+            "date" : "7.29am - 8.52am, Jan 1, 2020",
+            "body" : "Buzzes for help six times, reports cramping and needing a drink. She is moved cells but vomits again."
+           
+        },
+         {
+            "date" : "9.12am - 10.15am, Jan 1, 2020",
+            "body" : "Again asks for a drink, and five times to see doctor. She's told intercom is for emergencies only.",
+            "audio" : {
+                "audioUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/intercom17.mp3",
+                "color": "",
+                "words": "",
+                "caption": ""
+            }
+           
+        },
+        {
+            "date" : "10.15am - 11.31am, Jan 1, 2020",
+            "body" : "Given medicine through the cell hatch and again asks to see doctor. Medical staff attend before she's moved to another cell and vomits again."
+        }, 
+       {
+            "date" : "12.37pm, Jan 1, 2020",
+            "body" : "Doctor and nurse return, Nelson's examined and given electrolytes. She vomits two more times over next hour."
+        },
+        {
+            "date" : "4pm, Jan 1, 2020",
+            "body" : "Formal reception assessment completed after earlier deemed too unwell to complete. It's noted there are no illnesses or conditions that would affect prison placement."
+        },
+        {
+            "date" : "5.20pm, Jan 1, 2020",
+            "body" : "Transferred from medical ward to the general population Yarra Unit."
+        },
+
+          {
+            "date" : "9pm - 11pm, Jan 1, 2020",
+            "body" : "Buzzes and asks for blankets twice due to cramping. Three prison officers then seen approaching, feeding blanket through cell hatch. Another inmate says Nelson continues to scream for help repeatedly.",
+            "video": {
+                "videoUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/Blanket.mp4",
+                "videoPoster": "https://www.theage.com.au/interactive/2022/NelsonTimeline/blanketThumb.jpg"
+            }
+        },
+        {
+            "date" : "1.30am, Jan 2, 2020",
+            "body" : "Buzzes for help. As does another inmate to alert staff."
+        },
+        {
+            "date" : "1.37am, Jan 2, 2020",
+            "body" : "Nurse and prison officers attend cell. Give paracetamol and maxolon through cell flap. Nurse pries open Nelson's fingers to place pills in her hand, ''because they were cramped into a claw''. ",
+            "video": {
+                "videoUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/HandsLikeClaws.mp4",
+                "videoPoster": "https://www.theage.com.au/interactive/2022/NelsonTimeline/clawsThumb.jpg"
+            }
+        },
+        {
+            "date" : "2am - 4am, Jan 2, 2020",
+            "body" : "Buzzes officer's post 11 times. She's told:",
+              "quote" : {
+                "text": "\"I don't have keys'', ''the nurse isn't going to come down'', ''stop … you're keeping other prisoners awake\"",
+                "name": ""
+            }
+        },
+        {
+            "date" : "1.30am, Jan 2, 2020",
+            "body" : "Buzzes for help. As does another inmate to alert staff."
+        },
+        {
+            "date" : "3.56am, Jan 2, 2020",
+            "body" : "Second last call.", 
+            "audio" : {
+                "audioUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/SecondLast.mp3",
+                "color": "",
+                "words": "",
+                "caption": ""
+            }
+        },
+        {
+            "date" : "3.58am, Jan 2, 2020",
+            "body" : "Last communication with Nelson.", 
+             "audio" : {
+                "audioUrl": "https://www.theage.com.au/interactive/2022/NelsonTimeline/LastCall.mp3",
+                "color": "",
+                "words": "",
+                "caption": ""
+            }
+        },
+        {
+            "date" : "7.50am, Jan 2, 2020",
+            "body" : "Nelson doesn’t respond to morning prisoner count. Her body is found on floor of cell 40."
+        }
+    ]
+    }
