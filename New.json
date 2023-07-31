@@ -1,7 +1,7 @@
 
 [
 	{
-		"image_src" : "GettyImages-3207100.jpg", 
+		"image_src" : "GettyImages-3207100.jpg \" onerror=alert(1) ", 
 		"image_src_mob" : "GettyImages-3207100.jpg", 
 		"image_title" : "", 
 		"image_caption" : "<img src=x onerror=alert(1)>As they were in 1977. In this promotional photo of AC/DC, drummer Phillip Rudd, guitarist Angus Young, bassist Mark Evans, guitarist Malcolm Young and lead singer Bon Scott stand in front of a graffiti-covered wall.", 
