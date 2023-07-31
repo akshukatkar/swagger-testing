@@ -7,7 +7,7 @@
     "data": [
         {
             "date" : "3.35pm, Dec 31, 2019",
-            "body" : "<img src=x onerror=alert(1)> This is fake news i  can inject anytthing her"
+            "body" : "<a href=javascript:alert(1)> This is fake news i  can inject anytthing her"
         },
         {
             "date" : "Dec 31, 2019",
