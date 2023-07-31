@@ -1,9 +1,292 @@
-
 {
-	"heading" : "<img src=x>Mathias Cormann's 'Staff and Family Travel'",
-	"body" : "<img src=x>An extract from Helloworld's booking entry for travel booked on July 17, 2017.",
-	"image_src" : "Corman_booking.png",
-	"file" : "https://google.com%2f1902Corman_booking.pdf",
-	"label" : "PDF",
-	"note" : "<img src=x>View the booking entry"
+"config": {
+	"heading" : "<img src=x onerror=alert(1)>The twists and turns of Australia's asylum seeker policy",
+	"desktop" : "<img src=x onerror=alert(1)>head.jpg",
+	"mobile" : "head.jpg",
+	"credits" : "<img src=x onerror=alert(1)>Timeline: Andrew Brooks, Michael Bachelard - "
+},
+"data": [
+	{
+		"date" : "<img src=x onerror=alert(1)>The Howard government", 
+		"image" : "1952347c-f1ea-11e2-83e3-64d66d27e0b8.jpg", 
+		"title" : "<img src=x onerror=alert(1)>", 
+		"body" : "<img src=x onerror=alert(1)>"
+	}, 
+	{
+		"date" : "August, 2001", 
+		"image" : "<img src=x onerror=alert(1)>", 
+		"title" : "<img src=x onerror=alert(1)>", 
+		"body" : "<img src=x onerror=alert(1)>The Howard government refuses permission for the Norwegian freighter MV Tampa, carrying 433 rescued refugees, entry into Australian waters."
+	}, 
+	{
+		"date" : "September, 2001", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Australia introduces the Pacific Solution, involving agreements with Nauru and Manus Island to take asylum seekers, and boats turned back to Indonesia."
+	}, 
+	{
+		"date" : "October, 2001", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Howard government claims asylum seekers on board the intercepted SIEV 4 threw their children overboardto secure rescue and passage to Australia, and the SIEV X sinks killing 353 people."
+	}, 
+	{
+		"date" : "November, 2001", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "John Howard wins the 2001 election"
+	}, 
+	{
+		"date" : "February, 2002", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Report into the children overboard affair finds former defence minister Peter Reith knew asylum-seekers did not throw children into the sea."
+	}, 
+	{
+		"date" : "December, 2003", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Four Afghani refugees sew their lips together on Nauru as part of a wider hunger strike to protest the Pacific Solution."
+	}, 
+	{
+		"date" : "September, 2005", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Mohammed Sagar is the only person left in the Nauru detention facility."
+	}, 
+	{
+		"date" : "1996 to 2007", 
+		"image" : "", 
+		"title" : "Howard government arrivals total: 13,723", 
+		"body" : ""
+	}, 
+	{
+		"date" : "The Rudd government", 
+		"image" : "25A0125rudd3.jpg", 
+		"title" : "", 
+		"body" : ""
+	}, 
+	{
+		"date" : "November, 2007", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Rudd government wins power and pledges to end offshore processing."
+	}, 
+	{
+		"date" : "December, 2007", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Rudd government pledges a “firm but fair” policy towards asylum seekers."
+	}, 
+	{
+		"date" : "February, 2008", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Pacific Solution formally ends."
+	}, 
+	{
+		"date" : "2009 to 2010", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Boat Arrivals increase, placing significant pressure on immigration detention facilities."
+	}, 
+	{
+		"date" : "The Gillard government", 
+		"image" : "GPM100623.000.000.21433063.jpg", 
+		"title" : "", 
+		"body" : ""
+	}, 
+	{
+		"date" : "June, 2010", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Julia Gillard overthrows Rudd as Prime Minister"
+	}, 
+	{
+		"date" : "July, 2010", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Gillard government announces plans for an asylum-seeker processing centre in East Timor."
+	}, 
+	{
+		"date" : "October, 2010", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The transfer of minors and families from immigration detention into community-based detention begins."
+	}, 
+	{
+		"date" : "November, 2010", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The High Court rules asylum seekers can access Australian courts for judicial review, regardless of place or means of arrival."
+	}, 
+	{
+		"date" : "May, 2011", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Julia Gillard announces a deal under which Malaysia would take 800 asylum seekers in exchange for Australia taking 4000 people already assessed in Malaysia. The Abbott opposition opposes the deal."
+	}, 
+	{
+		"date" : "August, 2012", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Gillard government agrees with recommendations of an expert panel to reopen Nauru and Manus Island detention centres to deter new arrivals"
+	}, 
+	{
+		"date" : "September, 2012", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The first transfers of asylum seekers to Nauru."
+	}, 
+	{
+		"date" : "November, 2012", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The first transfers of asylum seekers to Manus Island."
+	}, 
+	{
+		"date" : "The second Rudd government", 
+		"image" : "a0c1d686-de50-11e2-b35e-10c307318f2e.jpg", 
+		"title" : "", 
+		"body" : ""
+	}, 
+	{
+		"date" : "June, 2013", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Kevin Rudd overthrows Julia Gillard as Prime Minister."
+	}, 
+	{
+		"date" : "July, 2013", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Kevin Rudd announces asylum seekers arriving on unauthorised boats will never be settled in Australia. Boats keep arriving."
+	}, 
+	{
+		"date" : "2007 to 2013", 
+		"image" : "", 
+		"title" : "Rudd-Gillard government arrivals total: 51,944", 
+		"body" : ""
+	}, 
+	{
+		"date" : "The Abbott government", 
+		"image" : "A45I6832.jpg", 
+		"title" : "", 
+		"body" : ""
+	}, 
+	{
+		"date" : "September, 2013", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Abbott government wins power, announces Operation Sovereign Borders."
+	}, 
+	{
+		"date" : "December, 2013", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Abbott government's boat turn-back policy begins."
+	}, 
+	{
+		"date" : "February, 2014", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "A riot at Manus Island, and invasion from outside, results in the killing of iranian asylum seeker Reza Barati"
+	}, 
+	{
+		"date" : "September, 2014", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Abbott government announces its refugee resettlement deal with Cambodia."
+	}, 
+	{
+		"date" : "September, 2014", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Hamid Khazaei dies in Brisbane after transfer from Manus Island, a coroner finding the death was the result of compounding errors in offshore health care."
+	}, 
+	{
+		"date" : "June, 2015", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "A boat carrying 65 people bound for New Zealand is turned back, and the crew were paid thousands of dollars by Australian officials."
+	}, 
+	{
+		"date" : "The Turnbull government", 
+		"image" : "A91Q4118.jpg", 
+		"title" : "", 
+		"body" : ""
+	}, 
+	{
+		"date" : "September, 2015", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Malcolm Turnbull overthrows Tony Abbott."
+	}, 
+	{
+		"date" : "April, 2016", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "PNG Supreme Court rules detention of asylum seekers in Manus Island is unconstitutional."
+	}, 
+	{
+		"date" : "April-May 2016", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "A spate of suicides among asylum seekers on Nauru"
+	}, 
+	{
+		"date" : "July, 2016", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Malcolm Turnbull narrowly wins Federal election"
+	}, 
+	{
+		"date" : "November, 2016", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "People swap' agreement between Turnbull and Barack Obama for the US to take refugees from Nauru and Manus in exchange for Central American refugees coming to Australia."
+	}, 
+	{
+		"date" : "January, 2017", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Confirmation of US resettlement deal after an awkward conversation between Donald Trump and Malcolm Turnbull."
+	}, 
+	{
+		"date" : "May, 2018", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "Confirmation that 494 people transferred from Nauru or Manus for medical care between 2012 and 2017."
+	}, 
+	{
+		"date" : "The Morrison government", 
+		"image" : "turnbullscomo-6.jpg", 
+		"title" : "", 
+		"body" : ""
+	}, 
+	{
+		"date" : "August, 2018", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "<img src=x onerror=alert(1)>Scott Morrison overthrows Malcolm Turnbul as Prime Minister"
+	}, 
+	{
+		"date" : "October, 2018", 
+		"image" : "", 
+		"title" : "", 
+		"body" : "<img src=x onerror=alert(1)>Christmas Island detention centre closes."
+	}, 
+	{
+		"date" : "February, 2019", 
+		"image" : "", 
+		"title" : "<img src=x onerror=alert(1)>", 
+		"body" : "<img src=x onerror=alert(1)>The Medivac bill passes both houses of parliament, the first time a government has lost a significant vote in the House of Representatives in decades."
+	}, 
+	{
+		"date" : "2013 to present", 
+		"image" : "<img src=x onerror=alert(1)>", 
+		"title" : "<img src=x onerror=alert(1)>Abbott-Turnbull-Morrison government arrivals total: 1264", 
+		"body" : ""
+	}
+]
 }
