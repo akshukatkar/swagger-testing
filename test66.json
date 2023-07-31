@@ -1,22 +1,22 @@
 {
 "config": {
-	"heading" : "<img src=x onerror=alert(1)>The twists and turns of Australia's asylum seeker policy",
-	"desktop" : "<img src=x onerror=alert(1)>head.jpg",
+	"heading" : "<akshay>The twists and turns of Australia's asylum seeker policy",
+	"desktop" : "head.jpg",
 	"mobile" : "head.jpg",
-	"credits" : "<img src=x onerror=alert(1)>Timeline: Andrew Brooks, Michael Bachelard - "
+	"credits" : "Timeline: Andrew Brooks, Michael Bachelard - "
 },
 "data": [
 	{
-		"date" : "<img src=x onerror=alert(1)>The Howard government", 
+		"date" : "<akshay>The Howard government", 
 		"image" : "1952347c-f1ea-11e2-83e3-64d66d27e0b8.jpg", 
-		"title" : "<img src=x onerror=alert(1)>", 
-		"body" : "<img src=x onerror=alert(1)>"
+		"title" : "", 
+		"body" : ""
 	}, 
 	{
 		"date" : "August, 2001", 
-		"image" : "<img src=x onerror=alert(1)>", 
-		"title" : "<img src=x onerror=alert(1)>", 
-		"body" : "<img src=x onerror=alert(1)>The Howard government refuses permission for the Norwegian freighter MV Tampa, carrying 433 rescued refugees, entry into Australian waters."
+		"image" : "", 
+		"title" : "", 
+		"body" : "The Howard government refuses permission for the Norwegian freighter MV Tampa, carrying 433 rescued refugees, entry into Australian waters."
 	}, 
 	{
 		"date" : "September, 2001", 
@@ -268,24 +268,24 @@
 		"date" : "August, 2018", 
 		"image" : "", 
 		"title" : "", 
-		"body" : "<img src=x onerror=alert(1)>Scott Morrison overthrows Malcolm Turnbul as Prime Minister"
+		"body" : "Scott Morrison overthrows Malcolm Turnbul as Prime Minister"
 	}, 
 	{
 		"date" : "October, 2018", 
 		"image" : "", 
 		"title" : "", 
-		"body" : "<img src=x onerror=alert(1)>Christmas Island detention centre closes."
+		"body" : "Christmas Island detention centre closes."
 	}, 
 	{
 		"date" : "February, 2019", 
 		"image" : "", 
-		"title" : "<img src=x onerror=alert(1)>", 
-		"body" : "<img src=x onerror=alert(1)>The Medivac bill passes both houses of parliament, the first time a government has lost a significant vote in the House of Representatives in decades."
+		"title" : "", 
+		"body" : "The Medivac bill passes both houses of parliament, the first time a government has lost a significant vote in the House of Representatives in decades."
 	}, 
 	{
 		"date" : "2013 to present", 
-		"image" : "<img src=x onerror=alert(1)>", 
-		"title" : "<img src=x onerror=alert(1)>Abbott-Turnbull-Morrison government arrivals total: 1264", 
+		"image" : "", 
+		"title" : "Abbott-Turnbull-Morrison government arrivals total: 1264", 
 		"body" : ""
 	}
 ]
