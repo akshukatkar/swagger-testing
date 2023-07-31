@@ -1,0 +1,45 @@
+{
+"config": {
+	"heading" : "<img>aWho are the Justices on the High Court?",
+	"modulename" : "<img>aFront beachers",
+	"version" : "1.0",
+	"source" : "<img>a "
+},
+"data": [
+	{
+		"title" : "<img>aSusan Kiefel", 
+		"image" : "<img>akiefel.png", 
+		"label" : "<img>aAppointed September 3, 2007"
+	}, 
+	{
+		"title" : "Virginia Bell", 
+		"image" : "bell.png", 
+		"label" : "Appointed February 3, 2009"
+	}, 
+	{
+		"title" : "Stephen Gageler", 
+		"image" : "gageler.png", 
+		"label" : "Appointed October 9, 2012"
+	}, 
+	{
+		"title" : "Patrick Keane", 
+		"image" : "keane.png", 
+		"label" : "Appointed March 5, 2013"
+	}, 
+	{
+		"title" : "Geoffrey Nettle", 
+		"image" : "nettle.png", 
+		"label" : "Appointed February 3, 2015"
+	}, 
+	{
+		"title" : "Michelle Gordon", 
+		"image" : "gordon.png", 
+		"label" : "Appointed June 9, 2015"
+	}, 
+	{
+		"title" : "James Edelman", 
+		"image" : "edelman.png", 
+		"label" : "Appointed January 30, 2017"
+	}
+]
+}
