@@ -1,0 +1,14 @@
+{
+    "config": {
+        "modulename": "About the <akshay>katkar data",
+        "version": "1.0",
+        "name": "Petrol <akshay>katkarprices",
+        "isCollapsible": true
+    },
+    "data": {
+        "title": "About the<akshay>katkar data",
+        "body": [
+            "<p>Current <akshay>katkarand historical petrol prices are from the Australian Institute of Petroleum, with current prices showing the average for capital cities in the week to July 17, 2022, and historical prices showing state-wide averages for 2021. Potential petrol prices in 2023 have been calculated by adding the average increase in petrol prices over the past two years to the current price. Average fuel consumption figures by vehicle type are from the Australian Bureau of Statistics and Budget Direct and common commute routes are from the ABS.</p>"
+        ]
+    }
+}
