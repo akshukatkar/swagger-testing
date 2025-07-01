@@ -1,6 +1,6 @@
 {
   "InputImages": {
-    "BigSmileImageUrl": "https://dk5wv51hv3hj1.cloudfront.net/files/logos/inner/maayboli_logo_73x90_1.png",
+    "BigSmileImageUrl": "https://dk5wv51hv3hj1.cloudfront.net/files/logos/inn\"er/maayboli_logo_73x90_1.png",
     "SmallSmileImageUrl": "https://example.com/images/small_smile_input.jpg",
     "NeutralFaceImageUrl": "https://example.com/images/neutral_face_input.jpg"
   },
