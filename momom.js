@@ -1,6 +1,6 @@
 {
   "InputImages": {
-    "BigSmileImageUrl": "https://static.wikia.nocookie.net/rickandmorty/images/4/41/Pickle_rick_transparent_edgetrimmed.png/revision/latest/scale-to-width-down/1200?cb=20220105043415",
+    "BigSmileImageUrl": "https://upload.wikimedia.org/wikipedia/en/5/53/Pickle_Rick.jpg",
     "SmallSmileImageUrl": "https://example.com/images/small_smile_input.jpg",
     "NeutralFaceImageUrl": "https://example.com/images/neutral_face_input.jpg"
   },
