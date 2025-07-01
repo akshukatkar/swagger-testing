@@ -1,6 +1,6 @@
 {
   "InputImages": {
-    "BigSmileImageUrl": "https://dk5wv51hv3hj1.cloudfront.net/files/logos/inner/maayboli_logo_73x90_1.png",
+    "BigSmileImageUrl": "https://static.wikia.nocookie.net/rickandmorty/images/4/41/Pickle_rick_transparent_edgetrimmed.png/revision/latest/scale-to-width-down/1200?cb=20220105043415",
     "SmallSmileImageUrl": "https://example.com/images/small_smile_input.jpg",
     "NeutralFaceImageUrl": "https://example.com/images/neutral_face_input.jpg"
   },
